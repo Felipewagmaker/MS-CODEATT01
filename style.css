@@ -1,0 +1,23 @@
+header{
+    background-color: #f50909d7;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 60px;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-left: 20px;
+}
+
+nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-left: 20px;
+}
+
+footer{
+    background-color: lightseagreen;
+    margin: 40px;
+}
